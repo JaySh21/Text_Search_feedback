@@ -1,0 +1,3 @@
+About us. We deliver Artificial Intelligence & Machine Learning solutions to solve business challenges.
+Contact information. Email [martin davtyan at filament dot ai] if you have any questions.
+Filament Chat. A framework for building and maintaining a scalable chatbot capability.
